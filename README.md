@@ -1,4 +1,4 @@
-## Proyecto realizado por Néstor López Torres.
+## Proyecto realizado por Néstor López Torres
 
 <b>Objetivo:</b> Página web para obtener los resultados de la jornada de la liga de Fútbol.
 
